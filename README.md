@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Embedded & IoT Engineer | 💻 IT & Application Development | ⚡ PCB & Hardware Design  
+## 🚀 Embedded & IoT Engineer | 💻 IT & Application Development | ⚡ PCB Design  
 
 ---
 
