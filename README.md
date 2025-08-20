@@ -29,7 +29,6 @@
 ### ⚡ Hardware & IoT
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?logo=espressif&logoColor=white)
-![LoRa](https://img.shields.io/badge/-LoRa-00A99D?logo=semtech&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=raspberrypi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=eclipsemosquitto&logoColor=white)
 ![MSP430](https://img.shields.io/badge/-MSP430-CC0000?logo=texasinstruments&logoColor=white)
