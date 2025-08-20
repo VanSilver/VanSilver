@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # 👋 Hello, I'm VanSilver  
 
@@ -16,7 +16,7 @@
 - ⚡ Expertise: **Firmware, PCB Design, C# Backend, Mobile Applications**  
 
 ---
-
+<div align="center">
 ## 🛠️ Tech Stack
 
 ### 🔧 Languages & Frameworks
