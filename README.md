@@ -8,29 +8,6 @@
 
 ---
 
-## 📊 Stats
-![VanSilver's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSilver&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSilver&layout=compact&theme=radical)  
-[![GitHub Streak](https://streak-stats.demolab.com?user=VanSilver&theme=tokyonight)](https://git.io/streak-stats)  
-
----
-
-## 🎖️ Badges
-![Followers](https://img.shields.io/github/followers/VanSilver?style=social)
-![Stars](https://img.shields.io/github/stars/VanSilver?style=social)
-![Profile Views](https://komarev.com/ghpvc/?username=VanSilver&color=blue)  
-
----
-
-## 📫 Contact
-📩 Email: huynhvan12339@gmail.com  
-💼 LinkedIn: [linkedin.com/in/vansilver](https://www.linkedin.com/in/vansilver1711/)  
-📺 YouTube: [VanSilver.Dev](https://www.youtube.com/@vansilver1711)  
-
-</div>
-
----
-
 ## 🧑‍💻 About Me
 - 🎓 Background: **Computer Engineering**  
 - 🔭 Currently developing IoT systems with **ESP32 + LoRa + MQTT + PostgreSQL**  
@@ -65,3 +42,27 @@
 ### 🎨 Others
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
+## 📊 Stats
+![VanSilver's GitHub stats](https://github-readme-stats.vercel.app/api?username=VanSilver&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VanSilver&layout=compact&theme=radical)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=VanSilver&theme=tokyonight)](https://git.io/streak-stats)  
+
+---
+
+## 🎖️ Badges
+![Followers](https://img.shields.io/github/followers/VanSilver?style=social)
+![Stars](https://img.shields.io/github/stars/VanSilver?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=VanSilver&color=blue)  
+
+---
+
+## 📫 Contact
+📩 Email: huynhvan12339@gmail.com  
+💼 LinkedIn: [linkedin.com/in/vansilver](https://www.linkedin.com/in/vansilver1711/)  
+📺 YouTube: [VanSilver.Dev](https://www.youtube.com/@vansilver1711)  
+
+</div>
+
