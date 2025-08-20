@@ -33,6 +33,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=raspberrypi&logoColor=white)
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?logo=eclipsemosquitto&logoColor=white)
 ![MSP430](https://img.shields.io/badge/-MSP430-CC0000?logo=texasinstruments&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/-Altium%20Designer-A5915F?logo=altiumdesigner&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-FF0000?logo=dassaultsystemes&logoColor=white)
 
 ### 💾 Databases & Backend
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
