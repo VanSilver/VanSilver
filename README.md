@@ -16,8 +16,8 @@
 - ⚡ Expertise: **Firmware, PCB Design, C# Backend, Mobile Applications**  
 
 ---
-<div align="center">
 ## 🛠️ Tech Stack
+<div align="center">
 
 ### 🔧 Languages & Frameworks
 ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)
