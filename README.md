@@ -64,7 +64,7 @@
 📩 Email: huynhvan12339@gmail.com  
 💼 LinkedIn: [linkedin.com/in/vansilver](https://www.linkedin.com/in/vansilver1711/)  
 📺 YouTube: [VanSilver.Dev](https://www.youtube.com/@vansilver1711)  
-👤 Portfolio: https://vansilver.github.io/VanSilver-Portfolio/
+👤 Portfolio: [VanSilver-Portfolio](https://vansilver.github.io/VanSilver-Portfolio/)
 
 </div>
 
